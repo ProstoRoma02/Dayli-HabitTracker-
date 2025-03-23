@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Dayli-HabitTracker-/static/css/main.47177f52.css",
-    "main.js": "/Dayli-HabitTracker-/static/js/main.e9bf727b.js",
+    "main.css": "/Dayli-HabitTracker-/static/css/main.cca4ac7a.css",
+    "main.js": "/Dayli-HabitTracker-/static/js/main.dad7f0ee.js",
     "static/js/453.7f1b694a.chunk.js": "/Dayli-HabitTracker-/static/js/453.7f1b694a.chunk.js",
     "index.html": "/Dayli-HabitTracker-/index.html",
-    "main.47177f52.css.map": "/Dayli-HabitTracker-/static/css/main.47177f52.css.map",
-    "main.e9bf727b.js.map": "/Dayli-HabitTracker-/static/js/main.e9bf727b.js.map",
+    "main.cca4ac7a.css.map": "/Dayli-HabitTracker-/static/css/main.cca4ac7a.css.map",
+    "main.dad7f0ee.js.map": "/Dayli-HabitTracker-/static/js/main.dad7f0ee.js.map",
     "453.7f1b694a.chunk.js.map": "/Dayli-HabitTracker-/static/js/453.7f1b694a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47177f52.css",
-    "static/js/main.e9bf727b.js"
+    "static/css/main.cca4ac7a.css",
+    "static/js/main.dad7f0ee.js"
   ]
 }
